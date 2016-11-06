@@ -10,7 +10,8 @@ Thanks Microsoft... Not really... But you are cool. Hire me please... Nevermind.
 > - Keeps track of sent and received data (definition of serial terminal... duh)
 > - Can search for serial ports... (I have seen some crappy terminals which could only use COM1 to 3...)
 > - Basicly a serial terminal with open source... what else do you need?
-#### 
+ 
+
 Feel free to use source-code in anyway. Or modify the already built application. It's open-source do whatever you want!
 
 [![](https://cdn.meme.am/instances/65480893.jpg)]
