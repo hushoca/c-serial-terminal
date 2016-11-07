@@ -1,0 +1,6 @@
+c:\users\hhoca\documents\visual studio 2015\Projects\HocaWatchSerialDecoder\HocaWatchSerialDecoder\bin\Debug\HocaWatchSerialDecoder.exe.config
+c:\users\hhoca\documents\visual studio 2015\Projects\HocaWatchSerialDecoder\HocaWatchSerialDecoder\bin\Debug\HocaWatchSerialDecoder.exe
+c:\users\hhoca\documents\visual studio 2015\Projects\HocaWatchSerialDecoder\HocaWatchSerialDecoder\bin\Debug\HocaWatchSerialDecoder.pdb
+c:\users\hhoca\documents\visual studio 2015\Projects\HocaWatchSerialDecoder\HocaWatchSerialDecoder\obj\Debug\HocaWatchSerialDecoder.csprojResolveAssemblyReference.cache
+c:\users\hhoca\documents\visual studio 2015\Projects\HocaWatchSerialDecoder\HocaWatchSerialDecoder\obj\Debug\HocaWatchSerialDecoder.exe
+c:\users\hhoca\documents\visual studio 2015\Projects\HocaWatchSerialDecoder\HocaWatchSerialDecoder\obj\Debug\HocaWatchSerialDecoder.pdb

@@ -1,0 +1,14 @@
+c:\users\hhoca\documents\visual studio 2015\Projects\TerminalApplicationHHoca\TerminalApplicationHHoca\bin\Debug\TerminalApplicationHHoca.exe.config
+c:\users\hhoca\documents\visual studio 2015\Projects\TerminalApplicationHHoca\TerminalApplicationHHoca\obj\Debug\TerminalApplicationHHoca.Form1.resources
+c:\users\hhoca\documents\visual studio 2015\Projects\TerminalApplicationHHoca\TerminalApplicationHHoca\obj\Debug\TerminalApplicationHHoca.Properties.Resources.resources
+c:\users\hhoca\documents\visual studio 2015\Projects\TerminalApplicationHHoca\TerminalApplicationHHoca\obj\Debug\TerminalApplicationHHoca.csproj.GenerateResource.Cache
+c:\users\hhoca\documents\visual studio 2015\Projects\TerminalApplicationHHoca\TerminalApplicationHHoca\bin\Debug\TerminalApplicationHHoca.exe
+c:\users\hhoca\documents\visual studio 2015\Projects\TerminalApplicationHHoca\TerminalApplicationHHoca\bin\Debug\TerminalApplicationHHoca.pdb
+c:\users\hhoca\documents\visual studio 2015\Projects\TerminalApplicationHHoca\TerminalApplicationHHoca\obj\Debug\TerminalApplicationHHoca.csprojResolveAssemblyReference.cache
+c:\users\hhoca\documents\visual studio 2015\Projects\TerminalApplicationHHoca\TerminalApplicationHHoca\obj\Debug\TerminalApplicationHHoca.exe
+c:\users\hhoca\documents\visual studio 2015\Projects\TerminalApplicationHHoca\TerminalApplicationHHoca\obj\Debug\TerminalApplicationHHoca.pdb
+c:\users\hhoca\documents\visual studio 2015\Projects\TerminalApplicationHHoca\TerminalApplicationHHoca\bin\Debug\TerminalApplicationHHoca.exe.manifest
+c:\users\hhoca\documents\visual studio 2015\Projects\TerminalApplicationHHoca\TerminalApplicationHHoca\bin\Debug\TerminalApplicationHHoca.application
+c:\users\hhoca\documents\visual studio 2015\Projects\TerminalApplicationHHoca\TerminalApplicationHHoca\obj\Debug\TerminalApplicationHHoca.TrustInfo.xml
+c:\users\hhoca\documents\visual studio 2015\Projects\TerminalApplicationHHoca\TerminalApplicationHHoca\obj\Debug\TerminalApplicationHHoca.exe.manifest
+c:\users\hhoca\documents\visual studio 2015\Projects\TerminalApplicationHHoca\TerminalApplicationHHoca\obj\Debug\TerminalApplicationHHoca.application
