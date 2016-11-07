@@ -8,6 +8,14 @@ Thanks Microsoft... Not really... But you are cool. Hire me please... Nevermind.
 
 Features:
 -------------
+**Version 1.0.2**
+> - Now saves settings for next session.
+> - Has 3 data display settings hex,binary,ascii
+> - has more connection settings like bit rate, end bit type, parity.
+> - Can set a break counter decides how many data points are shown on one lines.
+> - Carriage Return on/off functionality when sending messages.
+
+
 **Version 1.0.1**
 > - Added ability to disconnect (yep.. I forgot the add that 3 lines of code)
 > - When started scans for ports automaticly.

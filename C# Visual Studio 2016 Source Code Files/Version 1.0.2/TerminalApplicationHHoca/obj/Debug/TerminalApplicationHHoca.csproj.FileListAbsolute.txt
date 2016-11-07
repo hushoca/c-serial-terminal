@@ -1,0 +1,14 @@
+c:\users\hhoca\documents\visual studio 2015\Projects\TerminalApplicationHHoca\TerminalApplicationHHoca\obj\Debug\TerminalApplicationHHoca.Form1.resources
+c:\users\hhoca\documents\visual studio 2015\Projects\TerminalApplicationHHoca\TerminalApplicationHHoca\obj\Debug\TerminalApplicationHHoca.Properties.Resources.resources
+c:\users\hhoca\documents\visual studio 2015\Projects\TerminalApplicationHHoca\TerminalApplicationHHoca\obj\Debug\TerminalApplicationHHoca.csproj.GenerateResource.Cache
+c:\users\hhoca\documents\visual studio 2015\Projects\TerminalApplicationHHoca\TerminalApplicationHHoca\obj\Debug\TerminalApplicationHHoca.csprojResolveAssemblyReference.cache
+C:\Users\hhoca\Documents\Visual Studio 2015\Projects\TerminalApplicationHHoca\TerminalApplicationHHoca\bin\Debug\Serial_Terminal_by_Huseyin_Hoca.exe.config
+C:\Users\hhoca\Documents\Visual Studio 2015\Projects\TerminalApplicationHHoca\TerminalApplicationHHoca\bin\Debug\Serial_Terminal_by_Huseyin_Hoca.exe.manifest
+C:\Users\hhoca\Documents\Visual Studio 2015\Projects\TerminalApplicationHHoca\TerminalApplicationHHoca\bin\Debug\Serial_Terminal_by_Huseyin_Hoca.application
+C:\Users\hhoca\Documents\Visual Studio 2015\Projects\TerminalApplicationHHoca\TerminalApplicationHHoca\bin\Debug\Serial_Terminal_by_Huseyin_Hoca.exe
+C:\Users\hhoca\Documents\Visual Studio 2015\Projects\TerminalApplicationHHoca\TerminalApplicationHHoca\bin\Debug\Serial_Terminal_by_Huseyin_Hoca.pdb
+C:\Users\hhoca\Documents\Visual Studio 2015\Projects\TerminalApplicationHHoca\TerminalApplicationHHoca\obj\Debug\Serial_Terminal_by_Huseyin_Hoca.TrustInfo.xml
+C:\Users\hhoca\Documents\Visual Studio 2015\Projects\TerminalApplicationHHoca\TerminalApplicationHHoca\obj\Debug\Serial_Terminal_by_Huseyin_Hoca.exe.manifest
+C:\Users\hhoca\Documents\Visual Studio 2015\Projects\TerminalApplicationHHoca\TerminalApplicationHHoca\obj\Debug\Serial_Terminal_by_Huseyin_Hoca.application
+C:\Users\hhoca\Documents\Visual Studio 2015\Projects\TerminalApplicationHHoca\TerminalApplicationHHoca\obj\Debug\Serial_Terminal_by_Huseyin_Hoca.exe
+C:\Users\hhoca\Documents\Visual Studio 2015\Projects\TerminalApplicationHHoca\TerminalApplicationHHoca\obj\Debug\Serial_Terminal_by_Huseyin_Hoca.pdb
