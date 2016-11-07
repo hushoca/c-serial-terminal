@@ -311,7 +311,7 @@ namespace TerminalApplicationHHoca
 
                 #region Set all necesarry settings before attempting to connect.
 
-                sp.BaudRate = Convert.ToInt16(baudRateSelected);//set baud rate taken from the combobox
+                sp.BaudRate = int.Parse(baudRateSelected);//set baud rate taken from the combobox
                 sp.PortName = portSelected;                     //set port name to combobox selection
                 sp.Parity = (Parity)paritySelected;            //set parity to the variable setupped earlier.
                 #endregion
